@@ -1,0 +1,17 @@
+{
+    "name": "brianyu/blog-for-planet",
+    "description": "This is my first blog",
+    "type": "project",
+    "authors": [
+        {
+            "name": "brian",
+            "email": "648715996@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Brian\\Blog\\": "src/"
+        }
+    },
+    "require": {}
+}
