@@ -47,4 +47,8 @@ class BlogServiceProvider extends ServiceProvider
     {
         return ['blog'];
     }
+    public function map()
+    {
+        dd(1);
+    }
 }
